@@ -33,3 +33,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#Credentials
+android/keystores/release.keystore
+dist/
+*.map
+node_modules/
